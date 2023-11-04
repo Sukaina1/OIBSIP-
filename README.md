@@ -1,4 +1,4 @@
-# OIBSIP-
+# OIBSIP - Data Science Internship
 OIBSIP Data Science Internship
 
 Hello, everyone!
